@@ -1,2 +1,2 @@
-# Hillbilly-Makings
-The hillbilly's take on 3D printing
+# The Hillbilly Makers' repository
+A repository for high-ish quality DIY code, electronics and 3D printing
