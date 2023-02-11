@@ -57,12 +57,12 @@
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="740" y="575" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="535" y="580"/>
+                            <mxPoint x="529" y="580"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="5" value="3.3v-5v bridge" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transistors.npn_transistor_1;" vertex="1" parent="1">
-                    <mxGeometry x="480" y="440" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="480" y="440" width="70" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" style="edgeStyle=none;html=1;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#a0522d;strokeColor=#6D1F00;shape=link;" edge="1" parent="1" source="9" target="3">
                     <mxGeometry relative="1" as="geometry">
@@ -125,7 +125,7 @@
                             <mxPoint x="1080" y="580"/>
                             <mxPoint x="1080" y="420"/>
                             <mxPoint x="700" y="420"/>
-                            <mxPoint x="535" y="420"/>
+                            <mxPoint x="529" y="420"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
